@@ -1,0 +1,829 @@
+{
+ "_note": "Descriptive metadata written for this app (moods, themes, colours). No copyrighted lyrics are included; only public-domain text where marked.",
+ "songs": [
+  {
+   "id": "blinding-lights",
+   "title": "Blinding Lights",
+   "artist": "The Weeknd",
+   "year": 2019,
+   "genre": "Pop",
+   "mood": "nostalgic",
+   "style": "Retro",
+   "motifs": [
+    "skyline",
+    "road"
+   ],
+   "palette": [
+    "#0B0617",
+    "#5B1456",
+    "#E0245E",
+    "#FF9A5A"
+   ],
+   "themes": "a late-night drive through a neon city, longing for someone"
+  },
+  {
+   "id": "shape-of-you",
+   "title": "Shape of You",
+   "artist": "Ed Sheeran",
+   "year": 2017,
+   "genre": "Pop",
+   "mood": "playful",
+   "style": "Geometric",
+   "motifs": [
+    "spotlight",
+    "bubbles"
+   ],
+   "palette": [
+    "#0E2A33",
+    "#1F7A7A",
+    "#F2766B",
+    "#FFE3B8"
+   ],
+   "themes": "flirtation and chemistry on a lively dance floor"
+  },
+  {
+   "id": "perfect",
+   "title": "Perfect",
+   "artist": "Ed Sheeran",
+   "year": 2017,
+   "genre": "Pop",
+   "mood": "romantic",
+   "style": "Dreamscape",
+   "motifs": [
+    "moon",
+    "stars"
+   ],
+   "palette": [
+    "#101A3A",
+    "#33508F",
+    "#C48FB4",
+    "#F7DCCB"
+   ],
+   "themes": "a slow dance and devoted love under the night sky"
+  },
+  {
+   "id": "levitating",
+   "title": "Levitating",
+   "artist": "Dua Lipa",
+   "year": 2020,
+   "genre": "Pop",
+   "mood": "euphoric",
+   "style": "Aurora",
+   "motifs": [
+    "stars",
+    "bubbles"
+   ],
+   "palette": [
+    "#1A0B3B",
+    "#5B2A9B",
+    "#E04FD0",
+    "#FFD3F2"
+   ],
+   "themes": "disco glitter, floating and dancing among the stars"
+  },
+  {
+   "id": "as-it-was",
+   "title": "As It Was",
+   "artist": "Harry Styles",
+   "year": 2022,
+   "genre": "Pop",
+   "mood": "melancholic",
+   "style": "Retro",
+   "motifs": [
+    "sun",
+    "ribbons"
+   ],
+   "palette": [
+    "#2B0F2E",
+    "#B53A4B",
+    "#F28C4E",
+    "#F7D9A1"
+   ],
+   "themes": "change, nostalgia and the feeling of time moving on"
+  },
+  {
+   "id": "flowers",
+   "title": "Flowers",
+   "artist": "Miley Cyrus",
+   "year": 2023,
+   "genre": "Pop",
+   "mood": "empowered",
+   "style": "Retro",
+   "motifs": [
+    "flowers",
+    "sun"
+   ],
+   "palette": [
+    "#3A1020",
+    "#C23B5A",
+    "#F59A6B",
+    "#FFE2B8"
+   ],
+   "themes": "independence and self-love after a breakup"
+  },
+  {
+   "id": "anti-hero",
+   "title": "Anti-Hero",
+   "artist": "Taylor Swift",
+   "year": 2022,
+   "genre": "Pop",
+   "mood": "introspective",
+   "style": "Aurora",
+   "motifs": [
+    "moon",
+    "stars"
+   ],
+   "palette": [
+    "#0D1B3A",
+    "#2F4F8F",
+    "#7D9BD3",
+    "#E8E3F5"
+   ],
+   "themes": "midnight self-doubt and sleepless overthinking"
+  },
+  {
+   "id": "shake-it-off",
+   "title": "Shake It Off",
+   "artist": "Taylor Swift",
+   "year": 2014,
+   "genre": "Pop",
+   "mood": "playful",
+   "style": "Retro",
+   "motifs": [
+    "bubbles",
+    "spotlight"
+   ],
+   "palette": [
+    "#19224A",
+    "#3D6FD9",
+    "#F46FA6",
+    "#FFE5F1"
+   ],
+   "themes": "shrugging off the haters and dancing it out"
+  },
+  {
+   "id": "drivers-license",
+   "title": "drivers license",
+   "artist": "Olivia Rodrigo",
+   "year": 2021,
+   "genre": "Pop",
+   "mood": "melancholic",
+   "style": "Noir",
+   "motifs": [
+    "road",
+    "rain"
+   ],
+   "palette": [
+    "#0C0F2B",
+    "#2B3A67",
+    "#8A6FB0",
+    "#E7B6C9"
+   ],
+   "themes": "heartbreak while driving through quiet suburban streets"
+  },
+  {
+   "id": "bad-guy",
+   "title": "bad guy",
+   "artist": "Billie Eilish",
+   "year": 2019,
+   "genre": "Pop",
+   "mood": "defiant",
+   "style": "Noir",
+   "motifs": [
+    "lightning",
+    "bubbles"
+   ],
+   "palette": [
+    "#050806",
+    "#0F3D2B",
+    "#39D98A",
+    "#E9FFE0"
+   ],
+   "themes": "dark humour, swagger and playing the villain"
+  },
+  {
+   "id": "dancing-queen",
+   "title": "Dancing Queen",
+   "artist": "ABBA",
+   "year": 1976,
+   "genre": "Pop",
+   "mood": "euphoric",
+   "style": "Retro",
+   "motifs": [
+    "spotlight",
+    "stars"
+   ],
+   "palette": [
+    "#1B1040",
+    "#7A3FB8",
+    "#F063B8",
+    "#FFE08A"
+   ],
+   "themes": "a joyful disco night and feeling young and free"
+  },
+  {
+   "id": "uptown-funk",
+   "title": "Uptown Funk",
+   "artist": "Mark Ronson ft. Bruno Mars",
+   "year": 2014,
+   "genre": "Pop",
+   "mood": "energetic",
+   "style": "Retro",
+   "motifs": [
+    "spotlight",
+    "vinyl"
+   ],
+   "palette": [
+    "#2A0B3A",
+    "#C4264E",
+    "#F6A21E",
+    "#FFF1B8"
+   ],
+   "themes": "funk, swagger and a showy night out"
+  },
+  {
+   "id": "stay",
+   "title": "Stay",
+   "artist": "The Kid LAROI & Justin Bieber",
+   "year": 2021,
+   "genre": "Pop",
+   "mood": "anxious",
+   "style": "Noir",
+   "motifs": [
+    "skyline",
+    "rain"
+   ],
+   "palette": [
+    "#0E1220",
+    "#2B2F57",
+    "#E04B5F",
+    "#F7B2A0"
+   ],
+   "themes": "the fear of losing someone and a need to keep them close"
+  },
+  {
+   "id": "heat-waves",
+   "title": "Heat Waves",
+   "artist": "Glass Animals",
+   "year": 2020,
+   "genre": "Pop",
+   "mood": "nostalgic",
+   "style": "Dreamscape",
+   "motifs": [
+    "sun",
+    "waves"
+   ],
+   "palette": [
+    "#1F1147",
+    "#7A2F8F",
+    "#F0673D",
+    "#FFD27A"
+   ],
+   "themes": "hazy summer memories and quiet longing"
+  },
+  {
+   "id": "sunflower",
+   "title": "Sunflower",
+   "artist": "Post Malone & Swae Lee",
+   "year": 2018,
+   "genre": "Hip-Hop/R&B",
+   "mood": "carefree",
+   "style": "Retro",
+   "motifs": [
+    "flowers",
+    "sun"
+   ],
+   "palette": [
+    "#141B3F",
+    "#3C5FB5",
+    "#F5B82E",
+    "#FFF2B0"
+   ],
+   "themes": "easygoing affection, warm and bright"
+  },
+  {
+   "id": "lose-yourself",
+   "title": "Lose Yourself",
+   "artist": "Eminem",
+   "year": 2002,
+   "genre": "Hip-Hop/R&B",
+   "mood": "determined",
+   "style": "Noir",
+   "motifs": [
+    "skyline",
+    "rain"
+   ],
+   "palette": [
+    "#0B0C0F",
+    "#26313D",
+    "#8A949E",
+    "#E5E7E9"
+   ],
+   "themes": "nerves, grit and seizing a single big chance"
+  },
+  {
+   "id": "bohemian-rhapsody",
+   "title": "Bohemian Rhapsody",
+   "artist": "Queen",
+   "year": 1975,
+   "genre": "Rock",
+   "mood": "dramatic",
+   "style": "Noir",
+   "motifs": [
+    "spotlight",
+    "lightning"
+   ],
+   "palette": [
+    "#14061F",
+    "#5A1B3A",
+    "#C9402E",
+    "#F5C16C"
+   ],
+   "themes": "an operatic story of guilt, fate and defiance"
+  },
+  {
+   "id": "billie-jean",
+   "title": "Billie Jean",
+   "artist": "Michael Jackson",
+   "year": 1982,
+   "genre": "Rock",
+   "mood": "tense",
+   "style": "Noir",
+   "motifs": [
+    "spotlight",
+    "skyline"
+   ],
+   "palette": [
+    "#0A0A12",
+    "#2C2C54",
+    "#B88A2F",
+    "#F2E3B3"
+   ],
+   "themes": "paranoia and rumours under the city spotlight"
+  },
+  {
+   "id": "hotel-california",
+   "title": "Hotel California",
+   "artist": "Eagles",
+   "year": 1976,
+   "genre": "Rock",
+   "mood": "mysterious",
+   "style": "Retro",
+   "motifs": [
+    "road",
+    "sun"
+   ],
+   "palette": [
+    "#2B1408",
+    "#9A3E1F",
+    "#E88A3A",
+    "#F8D79A"
+   ],
+   "themes": "a desert highway at dusk and a place you can't leave"
+  },
+  {
+   "id": "hey-jude",
+   "title": "Hey Jude",
+   "artist": "The Beatles",
+   "year": 1968,
+   "genre": "Rock",
+   "mood": "hopeful",
+   "style": "Aurora",
+   "motifs": [
+    "sun",
+    "ribbons"
+   ],
+   "palette": [
+    "#1F2A44",
+    "#5C7FA8",
+    "#F2B64D",
+    "#FFF0C8"
+   ],
+   "themes": "comfort, encouragement and taking a sad song and making it better"
+  },
+  {
+   "id": "imagine",
+   "title": "Imagine",
+   "artist": "John Lennon",
+   "year": 1971,
+   "genre": "Rock",
+   "mood": "peaceful",
+   "style": "Minimal",
+   "motifs": [
+    "clouds",
+    "sun"
+   ],
+   "palette": [
+    "#4F86C6",
+    "#8DB9E4",
+    "#F2E2C6",
+    "#FFFFFF"
+   ],
+   "themes": "peace, shared humanity and a world without borders"
+  },
+  {
+   "id": "smells-like-teen-spirit",
+   "title": "Smells Like Teen Spirit",
+   "artist": "Nirvana",
+   "year": 1991,
+   "genre": "Rock",
+   "mood": "rebellious",
+   "style": "Noir",
+   "motifs": [
+    "flames",
+    "spotlight"
+   ],
+   "palette": [
+    "#0F0E08",
+    "#403A12",
+    "#D8C21A",
+    "#F4EFC0"
+   ],
+   "themes": "teenage apathy, loud guitars and a restless crowd"
+  },
+  {
+   "id": "dont-stop-believin",
+   "title": "Don't Stop Believin'",
+   "artist": "Journey",
+   "year": 1981,
+   "genre": "Rock",
+   "mood": "hopeful",
+   "style": "Retro",
+   "motifs": [
+    "road",
+    "skyline"
+   ],
+   "palette": [
+    "#0F1530",
+    "#2E4A8B",
+    "#F28F3B",
+    "#FFD9A0"
+   ],
+   "themes": "small-town dreamers chasing something in the city night"
+  },
+  {
+   "id": "space-oddity",
+   "title": "Space Oddity",
+   "artist": "David Bowie",
+   "year": 1969,
+   "genre": "Rock",
+   "mood": "dreamlike",
+   "style": "Dreamscape",
+   "motifs": [
+    "stars",
+    "moon"
+   ],
+   "palette": [
+    "#02030A",
+    "#10224A",
+    "#3E6FB8",
+    "#CFE3FF"
+   ],
+   "themes": "an astronaut drifting alone in space"
+  },
+  {
+   "id": "purple-rain",
+   "title": "Purple Rain",
+   "artist": "Prince",
+   "year": 1984,
+   "genre": "Rock",
+   "mood": "emotional",
+   "style": "Aurora",
+   "motifs": [
+    "rain",
+    "spotlight"
+   ],
+   "palette": [
+    "#120626",
+    "#4B1D8A",
+    "#9B4DCA",
+    "#F0C8F5"
+   ],
+   "themes": "regret, forgiveness and a soaring guitar under purple skies"
+  },
+  {
+   "id": "rolling-in-the-deep",
+   "title": "Rolling in the Deep",
+   "artist": "Adele",
+   "year": 2010,
+   "genre": "Pop",
+   "mood": "fierce",
+   "style": "Noir",
+   "motifs": [
+    "waves",
+    "flames"
+   ],
+   "palette": [
+    "#0B1626",
+    "#1F4B6E",
+    "#C9422F",
+    "#F5B27A"
+   ],
+   "themes": "anger and heartbreak turned into power"
+  },
+  {
+   "id": "someone-like-you",
+   "title": "Someone Like You",
+   "artist": "Adele",
+   "year": 2011,
+   "genre": "Pop",
+   "mood": "melancholic",
+   "style": "Noir",
+   "motifs": [
+    "rain",
+    "clouds"
+   ],
+   "palette": [
+    "#101826",
+    "#3B5470",
+    "#8CA7C0",
+    "#E8EEF4"
+   ],
+   "themes": "a quiet goodbye and accepting that someone has moved on"
+  },
+  {
+   "id": "fix-you",
+   "title": "Fix You",
+   "artist": "Coldplay",
+   "year": 2005,
+   "genre": "Rock",
+   "mood": "hopeful",
+   "style": "Aurora",
+   "motifs": [
+    "stars",
+    "sun"
+   ],
+   "palette": [
+    "#0B1330",
+    "#243E80",
+    "#6D9BE0",
+    "#F5E6B8"
+   ],
+   "themes": "comfort in grief and a light guiding you home"
+  },
+  {
+   "id": "viva-la-vida",
+   "title": "Viva La Vida",
+   "artist": "Coldplay",
+   "year": 2008,
+   "genre": "Rock",
+   "mood": "triumphant",
+   "style": "Retro",
+   "motifs": [
+    "sun",
+    "mountains"
+   ],
+   "palette": [
+    "#2A0F14",
+    "#8E2A2A",
+    "#D9A441",
+    "#F5E3B5"
+   ],
+   "themes": "a fallen ruler looking back on power and revolution"
+  },
+  {
+   "id": "dynamite",
+   "title": "Dynamite",
+   "artist": "BTS",
+   "year": 2020,
+   "genre": "K-Pop",
+   "mood": "euphoric",
+   "style": "Retro",
+   "motifs": [
+    "sun",
+    "stars"
+   ],
+   "palette": [
+    "#1A1445",
+    "#E8438B",
+    "#FFB03B",
+    "#FFF2C2"
+   ],
+   "themes": "bright disco-pop energy and lighting up the night"
+  },
+  {
+   "id": "butter",
+   "title": "Butter",
+   "artist": "BTS",
+   "year": 2021,
+   "genre": "K-Pop",
+   "mood": "playful",
+   "style": "Retro",
+   "motifs": [
+    "spotlight",
+    "bubbles"
+   ],
+   "palette": [
+    "#2A1A00",
+    "#C98A1B",
+    "#F7D154",
+    "#FFF5C8"
+   ],
+   "themes": "smooth charm and confident, golden swagger"
+  },
+  {
+   "id": "spring-day",
+   "title": "Spring Day",
+   "artist": "BTS",
+   "year": 2017,
+   "genre": "K-Pop",
+   "mood": "melancholic",
+   "style": "Dreamscape",
+   "motifs": [
+    "flowers",
+    "clouds"
+   ],
+   "palette": [
+    "#1F2A44",
+    "#7F9CC9",
+    "#F2B8C6",
+    "#FFF1F4"
+   ],
+   "themes": "missing someone and waiting for winter to turn into spring"
+  },
+  {
+   "id": "how-you-like-that",
+   "title": "How You Like That",
+   "artist": "BLACKPINK",
+   "year": 2020,
+   "genre": "K-Pop",
+   "mood": "fierce",
+   "style": "Noir",
+   "motifs": [
+    "spotlight",
+    "lightning"
+   ],
+   "palette": [
+    "#0A0A0A",
+    "#3B0A2A",
+    "#F03E8C",
+    "#FFD6E8"
+   ],
+   "themes": "a bold comeback and rising after a fall"
+  },
+  {
+   "id": "love-dive",
+   "title": "LOVE DIVE",
+   "artist": "IVE",
+   "year": 2022,
+   "genre": "K-Pop",
+   "mood": "romantic",
+   "style": "Dreamscape",
+   "motifs": [
+    "waves",
+    "heart"
+   ],
+   "palette": [
+    "#0B1030",
+    "#3D3BA8",
+    "#B24CE0",
+    "#F9B6E8"
+   ],
+   "themes": "an irresistible, magnetic love that you dive right into"
+  },
+  {
+   "id": "hype-boy",
+   "title": "Hype Boy",
+   "artist": "NewJeans",
+   "year": 2022,
+   "genre": "K-Pop",
+   "mood": "carefree",
+   "style": "Dreamscape",
+   "motifs": [
+    "bubbles",
+    "clouds"
+   ],
+   "palette": [
+    "#4C7DC4",
+    "#8FB8F0",
+    "#F7C4D9",
+    "#FFFFFF"
+   ],
+   "themes": "the fluttery excitement of a first crush"
+  },
+  {
+   "id": "ditto",
+   "title": "Ditto",
+   "artist": "NewJeans",
+   "year": 2022,
+   "genre": "K-Pop",
+   "mood": "nostalgic",
+   "style": "Dreamscape",
+   "motifs": [
+    "clouds",
+    "stars"
+   ],
+   "palette": [
+    "#1B2A55",
+    "#6C8BC9",
+    "#C9D8F2",
+    "#FFFFFF"
+   ],
+   "themes": "winter nostalgia and a bittersweet relationship"
+  },
+  {
+   "id": "super-shy",
+   "title": "Super Shy",
+   "artist": "NewJeans",
+   "year": 2023,
+   "genre": "K-Pop",
+   "mood": "carefree",
+   "style": "Dreamscape",
+   "motifs": [
+    "flowers",
+    "bubbles"
+   ],
+   "palette": [
+    "#2E6FD0",
+    "#7FB3F0",
+    "#F6B8D6",
+    "#FFF6FA"
+   ],
+   "themes": "being too shy to say how you feel about a crush"
+  },
+  {
+   "id": "gangnam-style",
+   "title": "Gangnam Style",
+   "artist": "PSY",
+   "year": 2012,
+   "genre": "K-Pop",
+   "mood": "energetic",
+   "style": "Geometric",
+   "motifs": [
+    "skyline",
+    "spotlight"
+   ],
+   "palette": [
+    "#1A0933",
+    "#6B1FB3",
+    "#FF4FA3",
+    "#FFE66D"
+   ],
+   "themes": "flashy Seoul nightlife and playful, over-the-top style"
+  },
+  {
+   "id": "seven",
+   "title": "Seven",
+   "artist": "Jung Kook ft. Latto",
+   "year": 2023,
+   "genre": "K-Pop",
+   "mood": "romantic",
+   "style": "Retro",
+   "motifs": [
+    "sun",
+    "waves"
+   ],
+   "palette": [
+    "#1A2A44",
+    "#E07A4F",
+    "#F8C16B",
+    "#FFF1D0"
+   ],
+   "themes": "devotion that lasts through every day of the week"
+  },
+  {
+   "id": "amazing-grace",
+   "title": "Amazing Grace",
+   "artist": "John Newton (traditional hymn)",
+   "year": 1779,
+   "genre": "Traditional",
+   "mood": "peaceful",
+   "style": "Aurora",
+   "motifs": [
+    "sun",
+    "clouds"
+   ],
+   "palette": [
+    "#1F2A44",
+    "#5C7FA8",
+    "#F2C879",
+    "#FFF3D6"
+   ],
+   "themes": "redemption and finding light after being lost",
+   "public_domain": true,
+   "lyrics": "Amazing grace! How sweet the sound\nThat saved a wretch like me!\nI once was lost, but now am found;\nWas blind, but now I see."
+  },
+  {
+   "id": "auld-lang-syne",
+   "title": "Auld Lang Syne",
+   "artist": "Robert Burns (traditional)",
+   "year": 1788,
+   "genre": "Traditional",
+   "mood": "nostalgic",
+   "style": "Aurora",
+   "motifs": [
+    "fireworks",
+    "stars"
+   ],
+   "palette": [
+    "#0A1030",
+    "#26356E",
+    "#C9902E",
+    "#FFE9A8"
+   ],
+   "themes": "old friendships and the turn of the new year",
+   "public_domain": true,
+   "lyrics": "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd auld lang syne?"
+  }
+ ]
+}
